@@ -1,2 +1,3 @@
 # hello-rep
 this is my firs git-repositoy at all. To be continue...
+Artem Sushchenko,KS-122
